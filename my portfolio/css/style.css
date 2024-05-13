@@ -1,0 +1,31 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.banner-container{
+    background-color: rgba(73, 76, 77, 0.137);
+}
+.banner-column{
+    background-color: rgb(241, 145, 19);
+}
+h4{
+    color: aliceblue;
+
+}
+.navbar-container{
+    background-color: blue;
+}
+.about-container{
+    background-color: aquamarine;
+}
+.education-container{
+    background-color: aliceblue;
+}
+.redtype-color{
+    color:green ;
+}
+.bg-redtype{
+    background-color: brown;
+}
+circle{
+    background-color: blueviolet;
+}
